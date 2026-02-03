@@ -1,0 +1,19 @@
+# FastAPI and server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Database
+sqlalchemy==2.0.25
+
+# Google Calendar API
+google-api-python-client==2.116.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+# Telegram Bot
+python-telegram-bot==20.8
+
+# Utilities
+python-dotenv==1.0.1
